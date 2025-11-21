@@ -7,7 +7,7 @@ This repository contains machine learning projects completed during my summer in
 
 ##  Author
 **[Monika]**  
-Summer Intern - Machine Learning & Data Science  
+Summer Intern Course - Machine Learning & Data Science  
 **Duration**: [Start Date] - [End Date]  
 **Course**: Complete Machine Learning & NLP Bootcamp with MLOps Deployment
 
