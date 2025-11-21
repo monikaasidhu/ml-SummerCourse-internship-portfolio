@@ -49,5 +49,3 @@ Segment customers based on purchasing behavior using RFM analysis and K-Means cl
 - Interactive 3D cluster visualization
 
 
-## 📧 Contact
-[Your Name] - [Your Email]
