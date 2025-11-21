@@ -1,5 +1,5 @@
 
-# 🎭 Sentiment Analysis Pipeline
+#  Sentiment Analysis Pipeline
 A comprehensive sentiment analysis system comparing Traditional Machine Learning, Deep Learning (LSTM), and Transformer (BERT) approaches on the IMDB movie reviews dataset.
 
 ##  Project Overview
