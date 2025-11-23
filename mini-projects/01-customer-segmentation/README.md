@@ -23,7 +23,7 @@ Segment customers based on purchasing behavior using RFM analysis and K-Means cl
 5. **Analysis**: Generated business insights
 
 ##  Key Results
-- **Silhouette Score**: 0.374 (add your score)
+- **Silhouette Score**: 0.375
 - **4 Customer Segments Identified**:
   - Champions: 2.8% of customers
   - At Risk: 56.5% of customers
