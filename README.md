@@ -147,7 +147,7 @@ Pipeline: Fully serialized for deployment (Pickle)
 | Project | Metric | Score |
 |---------|--------|-------|
 | Customer Segmentation | Silhouette Score | 0.375 |
-| Sentiment Analysis | F1-Score | 0.XX |
+| Sentiment Analysis | F1-Score | 0.90 |
 | API Deployment | Response Time | <100ms |
 | Time Series Forecast | RMSE | X.XX |
 | Recommendation System | Accuracy@10 | 89% |
