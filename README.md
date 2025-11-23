@@ -6,7 +6,7 @@ This repository contains machine learning projects completed during my summer in
 ---
 
 ##  Author
-**[Monika]**  
+**Monika**  
 Summer Intern Course - Machine Learning & Data Science  
 **Duration**: [Start Date] - [End Date]  
 **Course**: Complete Machine Learning & NLP Bootcamp with MLOps Deployment
@@ -31,15 +31,17 @@ Summer Intern Course - Machine Learning & Data Science
 ---
 
 #### 2️ [Sentiment Analysis Pipeline](./mini-projects/02-sentiment-analysis/)
-**Topics**: NLP, Deep Learning, Text Processing  
-**Description**: Built sentiment classifier comparing traditional ML vs. deep learning approaches on product reviews.  
-**Key Skills**: Text preprocessing, LSTM, BERT, model comparison  
-**Tools**: Python, TensorFlow, transformers, Streamlit
+**Topics**: NLP, Machine Learning, Data Engineering
+**Description**: Built an end-to-end sentiment classification pipeline that automates data generation, text preprocessing, and multi-model benchmarking on product reviews. 
+**Key Skills**: Text preprocessing (Regex/NLTK), TF-IDF Feature Engineering, Scikit-Learn Pipelines, Model Evaluation (AUC-ROC)
+**Tools**: Python, scikit-learn, NLTK, Pandas, TextBlob, Pickle
 
 **Results**:
-- Traditional ML: 87% accuracy
-- BERT model: 93% accuracy
-- Deployed interactive web app
+
+Random Forest: 90% Accuracy (Best Model)
+Naive Bayes: 89.5% Accuracy
+AUC Score: 0.98
+Pipeline: Fully serialized for deployment (Pickle)
 
 ---
 
