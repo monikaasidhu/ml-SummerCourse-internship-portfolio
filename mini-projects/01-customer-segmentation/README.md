@@ -31,9 +31,9 @@ Segment customers based on purchasing behavior using RFM analysis and K-Means cl
   - Potential Loyalists: 23.6% of customers
 
 ##  Files
-- `01_Customer_Segmentation.ipynb` - Main analysis notebook
+- `01-customer-segmentation.ipynb` - Main analysis notebook
 - `customer_segments.csv` - Segmented customer data
-- `01_Customer_Segmentation.html` - HTML version for viewing
+- `01-customer-segmentation.html` - HTML version for viewing
 
 
 ##  Business Recommendations
