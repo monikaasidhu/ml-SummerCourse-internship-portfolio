@@ -60,7 +60,7 @@ Sales forecasting using multiple time series models including ARIMA, Facebook Pr
 | Model | RMSE | MAE | R² Score |
 |-------|------|-----|----------|
 | ARIMA | ~8.5 | ~6.8 | ~0.95 |
-| Prophet | ~8.3 | ~6.5 | ~0.96 |
+| Prophet | ~9.85 | ~7.80 | ~0.86 |
 | LSTM | ~7.9 | ~6.2 | ~0.97 |
 
 **Best Model**: LSTM achieved the lowest RMSE and highest R² score.
