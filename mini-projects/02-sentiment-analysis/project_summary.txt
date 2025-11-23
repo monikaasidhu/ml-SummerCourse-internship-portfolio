@@ -9,10 +9,10 @@
    • Train/Test Split: 80/20
 
 2️ PREPROCESSING
-   ✓ Text cleaning (URLs, punctuation, numbers removed)
-   ✓ Stopword removal
-   ✓ Lemmatization
-   ✓ Feature extraction (TF-IDF, Count Vectorizer)
+    Text cleaning (URLs, punctuation, numbers removed)
+    Stopword removal
+    Lemmatization
+    Feature extraction (TF-IDF, Count Vectorizer)
 
 3️ MODELS TRAINED
    • Logistic Regression
@@ -28,11 +28,11 @@
    • AUC Score: 0.9801
 
 5️ KEY FEATURES
-   ✓ Complete text preprocessing pipeline
-   ✓ Multiple model comparison
-   ✓ Production-ready prediction function
-   ✓ Proper evaluation metrics
-   ✓ Model persistence (saved as .pkl)
+    Complete text preprocessing pipeline
+    Multiple model comparison
+    Production-ready prediction function
+    Proper evaluation metrics
+    Model persistence (saved as .pkl)
 
 6️ BUSINESS APPLICATIONS
    • Customer feedback analysis
@@ -41,12 +41,5 @@
    • Brand sentiment tracking
    • Customer service prioritization
 
-7️ SKILLS DEMONSTRATED
-   ✓ Text preprocessing and NLP
-   ✓ Feature engineering (TF-IDF)
-   ✓ Multiple ML algorithms
-   ✓ Model evaluation and selection
-   ✓ Pipeline development
-   ✓ Model deployment preparation
 
 ============================================================
