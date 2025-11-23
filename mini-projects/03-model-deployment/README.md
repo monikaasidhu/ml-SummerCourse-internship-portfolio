@@ -1,9 +1,9 @@
 # ML Model Deployment API
 
-## 📌 Overview
+##  Overview
 Production-ready REST API serving multiple trained ML models using FastAPI.
 
-## 🎯 Features
+##  Features
 - Multiple model endpoints (Iris, Wine classification)
 - Automatic model loading at startup
 - Input validation with Pydantic
@@ -12,7 +12,7 @@ Production-ready REST API serving multiple trained ML models using FastAPI.
 - Docker support
 - Production-ready architecture
 
-## 🛠️ Models Deployed
+##  Models Deployed
 
 ### 1. Iris Classifier
 - **Algorithm**: Random Forest
@@ -26,7 +26,7 @@ Production-ready REST API serving multiple trained ML models using FastAPI.
 - **Input**: 13 chemical features
 - **Output**: Wine type (class_0, class_1, class_2)
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### Local Deployment
 
@@ -91,7 +91,7 @@ docker run -p 8000:8000 ml-api
 ### GET /stats
 - API statistics and uptime
 
-## 🧪 Testing the API
+##  Testing the API
 
 ### Using cURL
 ```bash
@@ -121,18 +121,18 @@ response = requests.post(
 )
 print(response.json())
 ```
-## 🔒 Security Features
+##  Security Features
 - Input validation with Pydantic
 - Type checking
 - Error handling
 - CORS configuration
 
-## 📊 Performance
+##  Performance
 - Response time: <100ms
 - Concurrent requests: Supported
 - Model loading: On startup (fast subsequent requests)
 
-## 🚀 Production Deployment
+##  Production Deployment
 
 ### Cloud Platforms
 
