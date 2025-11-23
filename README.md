@@ -144,7 +144,7 @@ Summer Intern Course - Machine Learning & Data Science
 
 | Project | Metric | Score |
 |---------|--------|-------|
-| Customer Segmentation | Silhouette Score | 0.374 |
+| Customer Segmentation | Silhouette Score | 0.375 |
 | Sentiment Analysis | F1-Score | 0.XX |
 | API Deployment | Response Time | <100ms |
 | Time Series Forecast | RMSE | X.XX |
