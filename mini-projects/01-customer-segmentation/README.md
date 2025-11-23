@@ -7,7 +7,7 @@ Segment customers based on purchasing behavior using RFM analysis and K-Means cl
 - **Source**: UCI Online Retail Dataset
 - **Size**: 541,909 transactions
 - **Period**: Dec 2010 - Dec 2011
-- **Customers**: 4,372 unique customers
+- **Customers**: 4,338 unique customers
 
 ##  Technologies Used
 - Python 3.x
