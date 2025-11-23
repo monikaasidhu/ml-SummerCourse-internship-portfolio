@@ -19,7 +19,7 @@ Summer Intern Course - Machine Learning & Data Science
 
 #### 1️ [Customer Segmentation Analysis](./mini-projects/01-customer-segmentation/)
 **Topics**: Clustering, PCA, Feature Engineering, RFM Analysis  
-**Description**: Segmented 4,372 customers into distinct groups using K-Means clustering based on purchasing behavior.  
+**Description**: Segmented 4,338 customers into distinct groups using K-Means clustering based on purchasing behavior.  
 **Key Skills**: Data preprocessing, unsupervised learning, business analytics  
 **Tools**: Python, scikit-learn, pandas, matplotlib, plotly
 
