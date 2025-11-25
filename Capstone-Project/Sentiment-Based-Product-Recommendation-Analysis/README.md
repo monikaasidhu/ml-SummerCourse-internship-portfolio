@@ -1,11 +1,6 @@
 
 # Sentiment-Based Product Recommendation System (Capstone)
 
-[![Docker Hub](https://img.shields.io/badge/DockerHub-shibani--sentiment--rec-blue)](https://hub.docker.com/r/helloshibani/sentiment-recommendation)
-![Build](https://img.shields.io/badge/build-passing-brightgreen)
-![Last Commit](https://img.shields.io/github/last-commit/helloshibani/Sentiment-Based-Product-Recommendation-Analysis)
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
-
 ---
 
 
@@ -68,6 +63,7 @@
 - Improve model robustness and runtime performance.
 - Streamline model loading in Docker containers.
 ---
+
 
 
 
