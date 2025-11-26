@@ -54,7 +54,7 @@ Pipeline: Fully serialized for deployment (Pickle)
 
 ### NLP Libraries
 - NLTK
-- spaCy
+- TextBlob
 
 ### Data Processing
 - pandas
