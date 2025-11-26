@@ -1,6 +1,8 @@
 ## Data Science & NLP Bootcamp Projects
+---
 
 This repository contains the practical mini-projects completed during my Complete Data Science, Machine Learning, DL & NLP Bootcamp. These projects demonstrate the application of supervised and unsupervised learning techniques to solve real-world data problems, ranging from customer behavior analysis to natural language processing.
+
 ---
 
 ##  Author
