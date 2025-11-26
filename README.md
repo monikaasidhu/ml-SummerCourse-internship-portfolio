@@ -1,4 +1,4 @@
-## Data Science & NLP Bootcamp Projects
+## Machine learning & NLP Projects
 ---
 
 This repository contains the practical mini-projects completed during my Complete Data Science, Machine Learning, DL & NLP Bootcamp. These projects demonstrate the application of supervised and unsupervised learning techniques to solve real-world data problems, ranging from customer behavior analysis to natural language processing.
@@ -51,25 +51,19 @@ Pipeline: Fully serialized for deployment (Pickle)
 
 ### ML/DL Frameworks
 - scikit-learn
-- TensorFlow
-- PyTorch
-- XGBoost
 
 ### NLP Libraries
-- transformers (Hugging Face)
 - NLTK
 - spaCy
 
 ### Data Processing
 - pandas
 - numpy
-- polars
 
 ### Visualization
 - matplotlib
 - seaborn
 - plotly
-- Streamlit
 
 ---
 
